@@ -1,5 +1,5 @@
 {
-  "name": "JulieMwol",
+  "name": "ADARSH-BOT",
   "version": "7.3.6",
   "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
   "main": "./Julie-Mwol/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+    "url": "git+https://github.com/adarsh964/Julie-Mwol.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,7 +17,7 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "farhan-dqz",
+  "author": "ADARSH",
   "developer": "@TOXIC-DEVIL / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
